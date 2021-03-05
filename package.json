@@ -1,0 +1,19 @@
+{
+  "name": "sg-datav-libs",
+  "version": "1.0.0",
+  "description": "datav components library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -wc rollup.config.dev.js"
+  },
+  "keywords": [],
+  "author": "sunguo <582447281@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/preset-env": "^7.13.9",
+    "rollup": "^2.40.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
